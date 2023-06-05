@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-add",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "exports": {
+    "require": "./dist/index.js",
+    "import": "./dist/index.mjs"
+  },
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts-resolve"
+  },
+  "devDependencies": {
+    "tsup": "^6.7.0",
+    "typescript": "^5.1.3"
+  }
+}

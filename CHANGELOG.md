@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.0.6
+
+[compare changes](https://github.com/xanderbarkhatov/nuxt-vercel-analytics/compare/v0.0.5...v0.0.6)
+
+
+### 🩹 Fixes
+
+  - Do not use modules from args ([7cc4b4e](https://github.com/xanderbarkhatov/nuxt-vercel-analytics/commit/7cc4b4e))
+
+### ❤️  Contributors
+
+- Alexander B ([@xanderbarkhatov](http://github.com/xanderbarkhatov))
+
 ## v0.0.5
 
 [compare changes](https://github.com/xanderbarkhatov/nuxt-vercel-analytics/compare/v0.0.4...v0.0.5)

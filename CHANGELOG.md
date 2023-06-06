@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.0.7
+
+[compare changes](https://github.com/xanderbarkhatov/nuxt-vercel-analytics/compare/v0.0.6...v0.0.7)
+
+
+### 🏡 Chore
+
+  - Build command ([cf3e3a0](https://github.com/xanderbarkhatov/nuxt-vercel-analytics/commit/cf3e3a0))
+
+### ❤️  Contributors
+
+- Alexander B ([@xanderbarkhatov](http://github.com/xanderbarkhatov))
+
 ## v0.0.6
 
 [compare changes](https://github.com/xanderbarkhatov/nuxt-vercel-analytics/compare/v0.0.5...v0.0.6)

@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.0.8
+
+[compare changes](https://github.com/xanderbarkhatov/nuxt-vercel-analytics/compare/v0.0.7...v0.0.8)
+
+
+### 🩹 Fixes
+
+  - Use prefferedPM ([b5dedfc](https://github.com/xanderbarkhatov/nuxt-vercel-analytics/commit/b5dedfc))
+
+### ❤️  Contributors
+
+- Alexander B ([@xanderbarkhatov](http://github.com/xanderbarkhatov))
+
 ## v0.0.7
 
 [compare changes](https://github.com/xanderbarkhatov/nuxt-vercel-analytics/compare/v0.0.6...v0.0.7)

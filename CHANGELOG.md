@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.0.4
+
+[compare changes](https://github.com/xanderbarkhatov/nuxt-vercel-analytics/compare/v0.0.3...v0.0.4)
+
+
+### 🩹 Fixes
+
+  - Fetch modules from cdn ([3da8b47](https://github.com/xanderbarkhatov/nuxt-vercel-analytics/commit/3da8b47))
+
+### ❤️  Contributors
+
+- Alexander B ([@xanderbarkhatov](http://github.com/xanderbarkhatov))
+
 ## v0.0.3
 
 [compare changes](https://github.com/xanderbarkhatov/nuxt-vercel-analytics/compare/v0.0.2...v0.0.3)

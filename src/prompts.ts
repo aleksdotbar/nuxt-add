@@ -1,7 +1,10 @@
 import prompts from "prompts"
-import modules from "@nuxt/modules" assert { type: "json" }
+import { ofetch } from "ofetch"
+
+const url = "https://cdn.jsdelivr.net/npm/@nuxt/modules@latest/modules.json"
 
 export async function promptForModules(version = "3") {
+  const modules: any[] = await ofetch(url)
   const available = modules.filter((m) => m.compatibility.nuxt.includes(`^${version}`))
 
   const { selected } = await prompts({

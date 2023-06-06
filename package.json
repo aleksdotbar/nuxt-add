@@ -1,9 +1,24 @@
 {
   "name": "nuxt-add",
   "version": "0.0.0",
-  "description": "",
+  "description": "Install nuxt modules with ease",
+  "homepage": "https://github.com/xanderbarkhatov/nuxt-vercel-analytics#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xanderbarkhatov/nuxt-vercel-analytics.git"
+  },
+  "author": {
+    "name": "Alexander B.",
+    "email": "mail@xanderbarkhatov.com",
+    "url": "https://xanderbarkhatov.com"
+  },
+  "keywords": [
+    "nuxt",
+    "modules",
+    "nuxt-modules",
+    "cli"
+  ],
   "license": "MIT",
-  "type": "module",
   "files": [
     "dist"
   ],

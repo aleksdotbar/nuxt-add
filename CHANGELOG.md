@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.0.9
+
+[compare changes](https://github.com/xanderbarkhatov/nuxt-add/compare/v0.0.8...v0.0.9)
+
+
+### 📖 Documentation
+
+  - Fix meta ([ceb44d2](https://github.com/xanderbarkhatov/nuxt-add/commit/ceb44d2))
+
+### ❤️  Contributors
+
+- Alexander B ([@xanderbarkhatov](http://github.com/xanderbarkhatov))
+
 ## v0.0.8
 
 [compare changes](https://github.com/xanderbarkhatov/nuxt-vercel-analytics/compare/v0.0.7...v0.0.8)

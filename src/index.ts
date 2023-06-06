@@ -15,9 +15,7 @@ async function main() {
     try {
       const cfg = await loadConfig()
 
-      if (!modules.length) {
-        modules = await promptForModules()
-      }
+      modules = await promptForModules()
 
       spinner.start("Installing modules...")
       await installModules(modules)

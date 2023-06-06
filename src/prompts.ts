@@ -1,5 +1,5 @@
 import prompts from "prompts"
-import modules from "@nuxt/modules"
+import modules from "@nuxt/modules" assert { type: "json" }
 
 export async function promptForModules(version = "3") {
   const available = modules.filter((m) => m.compatibility.nuxt.includes(`^${version}`))

@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.0.2
+
+[compare changes](https://github.com/xanderbarkhatov/nuxt-vercel-analytics/compare/v0.0.1...v0.0.2)
+
+
+### 🩹 Fixes
+
+  - Make executable ([47fdd5e](https://github.com/xanderbarkhatov/nuxt-vercel-analytics/commit/47fdd5e))
+
+### ❤️  Contributors
+
+- Alexander B ([@xanderbarkhatov](http://github.com/xanderbarkhatov))
+
 ## v0.0.1
 
 

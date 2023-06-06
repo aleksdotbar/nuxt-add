@@ -1,17 +1,6 @@
-export function getPackageManager() {
-  const userAgent = process.env.npm_config_user_agent
+import preferredPM from "preferred-pm"
 
-  if (!userAgent) {
-    return "npm"
-  }
-
-  if (userAgent.startsWith("yarn")) {
-    return "yarn"
-  }
-
-  if (userAgent.startsWith("pnpm")) {
-    return "pnpm"
-  }
-
-  return "npm"
+export async function getPackageManager() {
+  const { name } = (await preferredPM(process.cwd())) ?? { name: "npm" }
+  return name
 }

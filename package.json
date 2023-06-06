@@ -48,6 +48,7 @@
     "magicast": "^0.2.9",
     "ofetch": "^1.0.1",
     "ora": "^6.1.2",
+    "preferred-pm": "^3.0.3",
     "prompts": "^2.4.2"
   }
 }

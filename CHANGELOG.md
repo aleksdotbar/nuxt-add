@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.0.10
+
+[compare changes](https://github.com/xanderbarkhatov/nuxt-add/compare/v0.0.9...v0.0.10)
+
+
+### 📖 Documentation
+
+  - Update readme ([0ff7cb4](https://github.com/xanderbarkhatov/nuxt-add/commit/0ff7cb4))
+
+### ❤️  Contributors
+
+- Alexander B ([@xanderbarkhatov](http://github.com/xanderbarkhatov))
+
 ## v0.0.9
 
 [compare changes](https://github.com/xanderbarkhatov/nuxt-add/compare/v0.0.8...v0.0.9)
